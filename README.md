@@ -54,6 +54,8 @@ lego-detection-maskrcnn/
 ├── voc_to_coco.py            # VOC to COCO format converter script
 
 ## Data Processing
+Link to Dataset: https://www.kaggle.com/datasets/dreamfactor/biggest-lego-dataset-600-parts
+
 If your data annotations are in VOC format, you can convert them to COCO format using voc_to_coco.py:
 
 python voc_to_coco.py
