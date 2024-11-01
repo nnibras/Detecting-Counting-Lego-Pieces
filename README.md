@@ -100,7 +100,7 @@ Alternatively, you can experiment with app2.py (which has the pseudomask).
 ## License
 This project is open-source under the MIT license.
 
-### 1. Clone the Repository and Download the model
+### Clone the Repository and Download the model
 
 Clone the repository to your local machine:
 
