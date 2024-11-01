@@ -38,6 +38,7 @@ Install the required Python packages listed in requirements.txt:
 pip install -r requirements.txt
 
 ## Project Structure
+```bash
 lego-detection-maskrcnn/
 ├── app.py                    # Main Gradio application script
 ├── app2.py                   # Alternate Gradio application script
@@ -52,6 +53,7 @@ lego-detection-maskrcnn/
 ├── train.py                  # Training script for Mask R-CNN model
 ├── visualize_predictions.py  # Script for visualizing model predictions
 ├── voc_to_coco.py            # VOC to COCO format converter script
+```
 
 ## Data Processing
 Link to Dataset: https://www.kaggle.com/datasets/dreamfactor/biggest-lego-dataset-600-parts
