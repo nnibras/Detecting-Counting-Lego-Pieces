@@ -107,6 +107,7 @@ Clone the repository to your local machine:
 ```bash
 git clone https://github.com/your-username/lego-detection-maskrcnn.git
 cd lego-detection-maskrcnn
+```
 
 Note: If you do not want to train the model you can download the trained model from:
 https://drive.google.com/file/d/1Hbyj18F_mlAw3ZHYesZIrWrYPOvmBVWc/view?usp=sharing
